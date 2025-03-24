@@ -38,7 +38,7 @@ const InfinityNav = () => {
             <div className="flex-grow flex items-center justify-center">
               <ul className="flex flex-col items-center justify-between gap-4 text-xl sm:text-2xl md:text-3xl text-white-600">
                 <li className="pb-2 hover:text-red-600 hover:border-b-2 border-red-600">
-                  <a href="/infinity">HOME</a>
+                  <a href="/">HOME</a>
                 </li>
                 <li className="pb-2 hover:text-red-600 hover:border-b-2 border-red-600">
                   <Link to="/bitlegion">BIT LEGION</Link>
