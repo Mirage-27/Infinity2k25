@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@400;500;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Samarkan;
+  src: url("/fonts/samarkan.TTF");
+}
+@font-face {
+  font-family: Miso;
+  src: url("/fonts/miso.woff");
+}
+@font-face {
+  font-family: Nightcore;
+  src: url("/fonts/NightcoreDemo.ttf");
+}
+@font-face {
+  font-family: NewShape;
+  src: url("/fonts/NewShape-Book.ttf");
+}
+@font-face {
+  font-family: CaptainAmerica;
+  src: url("/fonts/AmericanCaptain.otf");
+}
+@font-face {
+  font-family: Silkroad;
+  src: url("/fonts/SilkRoad.ttf");
+}
+@font-face {
+  font-family: Octobercrow;
+  src: url("/fonts/OctoberCrow.ttf");
+}
+@font-face {
+  font-family: veterantypewriter;
+  src: url("/fonts/veterantypewriter.ttf");
+}
+@font-face {
+  font-family: oneninefourtwo;
+  src: url("/fonts/1942.ttf");
+}
+@font-face {
+  font-family: punktypewriter;
+  src: url("/fonts/PunkTypewriter.otf");
+}
+@font-face {
+  font-family: liquidism;
+  src: url("/fonts/liquidism.ttf");
+}
+@font-face {
+  font-family: Grandstander;
+  src: url("/fonts/Grandstander.ttf");
+}
+@font-face {
+  font-family: Kodchasan;
+  src: url("/fonts/Kodchasan.ttf");
+}
+@font-face {
+  font-family: FuzzyBubbles;
+  src: url("/fonts/FuzzyBubbles.ttf");
+}
+@font-face {
+  font-family: Punishment;
+  src: url("/fonts/Punishment.otf");
+}
+@font-face {
+  font-family: HARRYP;
+  src: url("/fonts/HARRYP.ttf");
+}
+@font-face {
+  font-family: Horrors;
+  src: url("/fonts/Horrors.ttf");
+}
+@font-face {
+  font-family: mrsmonster;
+  src: url("/fonts/mrsmonster.ttf");
+}
+@font-face {
+  font-family: youmurdererbb;
+  src: url("/fonts/youmurdererbb.ttf");
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
