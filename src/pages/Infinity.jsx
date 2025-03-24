@@ -119,7 +119,7 @@ const Infinity = () => {
             {/* <div className="text-white flex justify-center pt-5 lg:pt-0 lg:-mt-4"> */}
             <div className="text-white flex items-center mt-4 justify-center">
               <a
-                href="https://docs.google.com/forms/d/1Z84CvbjBjKotwmiUgTX2jRp2ba0WYzselRT40r2qPao/edit"
+                href="https://forms.gle/jSfd6d27ZLL58rix8"
                 target="_blank"
                 rel="noopener"
               >
