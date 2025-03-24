@@ -1,5 +1,4 @@
 import { useState } from "react";
-import Footer from "./Footer";
 import { Link } from "react-router-dom";
 
 const InfinityNav = () => {
@@ -54,7 +53,6 @@ const InfinityNav = () => {
                 </li>
               </ul>
             </div>
-            <Footer textColor={"white"} />
           </div>
         </section>
 
