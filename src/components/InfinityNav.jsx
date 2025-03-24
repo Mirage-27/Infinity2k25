@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Footer from "./Footer";
 import { Link } from "react-router-dom";
 
 const InfinityNav = () => {
@@ -57,9 +58,11 @@ const InfinityNav = () => {
         </section>
 
         <ul className="DESKTOP-MENU hidden space-x-8 lg:flex px-auto">
+        <a href="/">
           <li className="pb-2 hover:text-red-600 hover:border-b-2 border-red-600">
-            <a href="/">HOME</a>
+            HOME
           </li>
+          </a>
           <li className="pb-2 hover:text-red-600 hover:border-b-2 border-red-600">
             <Link to="/bitlegion">BIT LEGION</Link>
           </li>
