@@ -51,11 +51,14 @@ const Infinity = () => {
           <div className="flex-col">
             {/* <div className="flex justify-center pt-24 pb-14 mx-3 lg:mx-0 lg:p-8 items-center "> */}
             <div className="flex justify-center mt-6 mb-6 lg:mb-2 scale-125 sm:scale-120 md:scale-100">
-              <img
-                src="/images/Infinity_logo.png"
+              {/* <img
+                src="/images/logo27.jpg"
                 alt="Infinity Logo"
                 className="w-full scale-125 sm:scale-110  md:scale-100"
-              />
+              /> */}
+              <h1 className="text-white  py-6 md:py-12 lg:py-18 text-6xl sm:text-8xl md:text-9xl lg:text-103xl flex justify-center font-nightcore tracking-wider">
+            <span className="text-red-600">I</span>NFINIT<span className="text-red-600">Y</span>
+            </h1>
             </div>
             {/* <div className="text-white flex flex-col items-center gap-2 -p-10 justify-center text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-miso"> */}
             <div className="text-white flex flex-col items-center gap-2 justify-center text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-miso">
@@ -100,7 +103,7 @@ const Infinity = () => {
                   <div className="flex items-center justify-center">
                     <img
                       src="/images/Alarm.png"
-                      alt="26 Mar"
+                      alt="26 Apr"
                       width={50}
                       className="w-5/12 md:w-2/3"
                     />
