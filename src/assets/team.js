@@ -35,7 +35,7 @@ export const team = [
     linkedin: "https://www.linkedin.com/in/manaswi-rajne-70558822b/",
   },
   {
-    name: "Anomitra Bhattacharya",
+    name: "Anomitra",
     designation: "Core Member",
     insta: "/team",
     github: "github.com/anomitroid",
