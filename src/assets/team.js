@@ -38,8 +38,8 @@ export const team = [
     name: "Anomitra Bhattacharya",
     designation: "Core Member",
     insta: "",
-    github: "",
-    linkedin: "",
+    github: "github.com/anomitroid",
+    linkedin: "https://linkedin.com/in/anomitroid",
   },
   {
     name: "Kunj Vipul Goyal",
