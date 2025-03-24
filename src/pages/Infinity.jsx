@@ -21,10 +21,10 @@ const Infinity = () => {
               {
                 "@context": "http://schema.org",
                 "@type": "Event",
-                "name": "Infinity 2k23 - Coding Contest",
+                "name": "Infinity 2k25 - Coding Contest",
                 "description": "Infinity is IIIT Pune’s 2-hour Annual Flagship coding contest on CodeChef, featuring ACM style scoring. Showcase your top-tier problem-solving skills and data structure and algorithm efficiency for a thrilling coding experience.",
-                "startDate": "2023-10-25T20:00:00Z",
-                "endDate": "2023-10-25T22:00:00Z",
+                "startDate": "2023-03-26T20:00:00Z",
+                "endDate": "2023-03-26T22:00:00Z",
                 "location": {
                   "@type": "Place",
                   "name": "IIIT Pune",
@@ -89,18 +89,18 @@ const Infinity = () => {
                   <div className="flex items-center justify-center -ml-1">
                     <img
                       src="/images/cal-26.jpg"
-                      alt="26 Apr"
+                      alt="26 MAR"
                       width={50}
                       className="w-5/12 md:w-2/3"
                     />
                   </div>
-                  APR 26’ 2025
+                  MAR 26’ 2025
                 </div>
                 <div className="flex items-center justify-center">
                   <div className="flex items-center justify-center">
                     <img
                       src="/images/Alarm.png"
-                      alt="26 Apr"
+                      alt="26 Mar"
                       width={50}
                       className="w-5/12 md:w-2/3"
                     />
