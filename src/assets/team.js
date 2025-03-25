@@ -52,7 +52,7 @@ export const team = [
     name: "Piyush",
     designation: "Core Member",
     insta: "/team",
-    github: "https://github.com/Piyush-2704",
+    github: "/team",
     linkedin: "https://www.linkedin.com/in/piyush-92bb162b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
   
