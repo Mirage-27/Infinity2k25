@@ -117,7 +117,7 @@ const Infinity = () => {
               </div>
             </div>
             {/* <div className="text-white flex justify-center pt-5 lg:pt-0 lg:-mt-4"> */}
-            <div className="text-white flex items-center mt-4 justify-center">
+{/*             <div className="text-white flex items-center mt-4 justify-center">
               <a
                 href="https://forms.gle/jSfd6d27ZLL58rix8"
                 target="_blank"
@@ -127,7 +127,7 @@ const Infinity = () => {
                   Register &nbsp; <span className="text-red-600">Now</span>
                 </h1>
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
